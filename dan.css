@@ -1,0 +1,28 @@
+.a{display: inline-block;
+    width: 100px;
+    height: 100px;
+    
+    background-color: aquamarine;
+    position:absolute;
+    left:0px;
+    top:0px;
+
+}
+.b{display: inline-block;
+    width: 100px;
+    height: 100px;
+    
+    background-color: rgb(255, 127, 127);
+    position:absolute;
+    left: 100px;
+    top: 100px;
+}
+.c{display: inline-block;
+    width: 100px;
+    height: 100px;
+    
+    background-color: rgb(144, 127, 255);
+    position:absolute;
+    left: 200px;
+    top: 200px;
+}

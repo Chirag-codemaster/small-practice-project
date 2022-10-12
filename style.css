@@ -1,0 +1,159 @@
+/* 
+.topcont{
+    width: 200px;
+height: 200px;
+    background-color: aquamarine;
+}
+/* .midllecont{
+    margin-left: 200px;
+width: 200px;
+height: 200px;
+    background-color: rgb(198, 76, 76);
+}
+.bottomcont{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    margin-left: 400px;
+} */
+/* img{
+    height: 200px;
+    width: 400px;
+}
+    .a{display: inline-block;
+    width: 200px;
+    height: 200px;
+    border: solid black;
+    background-color: aquamarine;
+    position: relative;
+    left: 400px;
+    }
+
+    .b{display: inline-block;
+    width: 200px;
+    height: 200px;
+    border: solid black;
+    background-color: rgb(255, 127, 242);
+     position: relative;
+     right: 200px;
+    } 
+
+    .c{display: inline-block;
+    width: 200px;
+    height: 200px;
+    border: solid rgb(0, 0, 0);
+    background-color: rgb(157, 0, 0);
+     position: relative;
+     right:200px;
+    }
+/*  */
+body {
+
+    color: #40514E;
+    text-align: center;
+    background-color: #EAF6F6;
+
+
+}
+
+h1 {
+    color: #66BFBF;
+
+    margin-top: 50px auto 0 auto;
+    font-size: 5rem;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+.webrocker {
+    color: #66BFBF;
+    font-size: 2.8rem;
+}
+
+.cloude1 {
+    position: absolute;
+    right: 474px;
+    margin-top: -41px;
+}
+
+.mount {
+    display: inline-block;
+
+}
+
+.cloude2 {
+    position: absolute;
+}
+
+.all {
+    margin-top: 0px;
+    position: relative;
+
+}
+
+.topcont {
+    /* font-size: 2.6rem; */
+    font-family: 'Sacramento', cursive;
+    /* padding:10px; */
+
+}
+
+.profile-img {
+    height: 20%;
+    width: 20%;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+h3 {
+    color: #11999E;
+}
+
+a {
+
+    color: #11999E;
+
+}
+
+.middle-container {
+    background-color: white;
+    padding: 10px 10px;
+}
+
+.computer-img {
+    height: 25%;
+    width: 25%;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.chillies-img {
+    height: 25%;
+    width: 25%;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+    float: right;
+    margin-left: 30px;
+
+
+}
+
+.skill-row {
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
