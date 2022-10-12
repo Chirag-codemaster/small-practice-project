@@ -1,0 +1,54 @@
+body{
+background-image: url(code.jpg);
+background-attachment:local;
+background-position:50%;
+background-repeat:no-repeat;
+background-size: cover;
+height: 100vh;
+
+}
+.budget{
+  color:antiquewhite;
+  text-align: center;
+  font-size: 50px;
+}
+
+form{
+  margin: 5px 500px;
+  font-size: 2em;
+background-color: antiquewhite;
+border:solid black;
+padding:10px;
+background-image: url(pc.png);
+background-attachment:fixed;
+border-radius: 60px;
+color: black;
+
+
+}
+.registration{
+    font-family: 'Courier New', Courier, monospace;
+}
+.input1{
+    margin:10px;
+    text-align: center;
+    padding:15px;
+    font-size: 1.2rem;
+    border-radius: 50px;
+}
+/* .pc{
+  position: relative;
+  width: 20%;
+} */
+.submit{
+  border-radius: 40px;
+  background-color: aquamarine;
+  padding: 10px;
+  
+}
+.region{
+  border-radius: 40px;
+  background-color: aquamarine;
+  padding: 10px;
+  
+}
